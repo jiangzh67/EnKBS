@@ -3,7 +3,7 @@
 MATLAB code accompanying the paper:
 
 > *A Continuous-Time Ensemble Kalman–Bucy Smoother for Causal Inference and Model Discovery in Partially Observed Systems*
-> Zhang Jiang, Marios Andreou, Sebastian Reich，Nan Chen.
+> Zhang Jiang, Marios Andreou, Sebastian Reich, Nan Chen.
 
 
 The scripts reproduce the three numerical experiments reported in the paper:
